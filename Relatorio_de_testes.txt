@@ -1,0 +1,6 @@
+Report testes no site https://www.sp.senai.br/;
+
+Objetivo: Buscar por anomalias durante a navegação de buscas por cursos;
+
+Reportada anomalia sobre o número de retornos sobre o curso. Mostrador diferente 
+do indicado na busca.
